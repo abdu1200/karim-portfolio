@@ -16,7 +16,7 @@ const Project1vid = () => {
 
         {/* Video 1 */}
         <div className="video-item w-[400px] sm:w-1/2 px-4">
-          <video controls className="w-full rounded-lg shadow-lg">
+          <video controls className="w-full h-auto rounded-lg shadow-lg">
             <source src={purchaseVid} type="video/mp4" />
             Your browser does not support the video tag.
           </video>
