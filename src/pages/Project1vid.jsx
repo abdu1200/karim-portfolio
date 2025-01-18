@@ -15,7 +15,7 @@ const Project1vid = () => {
         </div>
 
         {/* Video 1 */}
-        <div className="video-item w-[350px] sm:w-1/2 px-4">
+        <div className="video-item w-[400px] sm:w-1/2 px-4">
           <video controls className="w-full rounded-lg shadow-lg">
             <source src={purchaseVid} type="video/mp4" />
             Your browser does not support the video tag.
@@ -25,7 +25,7 @@ const Project1vid = () => {
         </div>
 
         {/* Video 2 */}
-        <div className="video-item w-[350px] sm:w-1/2 px-4">
+        <div className="video-item w-[400px] sm:w-1/2 px-4">
           <video controls className="w-full rounded-lg shadow-lg">
             <source src={subscriptionVid} type="video/mp4" />
             Your browser does not support the video tag.
@@ -36,7 +36,7 @@ const Project1vid = () => {
         </div>
 
         {/* Video 3 */}
-        <div className="video-item w-[350px] sm:w-1/2 px-4">
+        <div className="video-item w-[400px] sm:w-1/2 px-4">
           <video controls className="w-full rounded-lg shadow-lg">
             <source src={dashboardVid} type="video/mp4" />
             Your browser does not support the video tag.
