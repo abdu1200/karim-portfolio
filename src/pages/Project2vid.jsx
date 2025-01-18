@@ -18,7 +18,7 @@ const Project2vid = () => {
         <div className="video-item w-full sm:w-1/2 px-4 flex flex-col items-center">
           <video
             controls
-            className="w-[180px] sm:w-[250px] h-[360px] sm:h-[500px] rounded-lg shadow-lg object-cover"
+            className="w-[300px] sm:w-[250px] h-[660px] sm:h-[500px] rounded-lg shadow-lg object-cover"
           >
             <source src={mob1Vid} type="video/mp4" />
             Your browser does not support the video tag.
@@ -30,7 +30,7 @@ const Project2vid = () => {
         <div className="video-item w-full sm:w-1/2 px-4 flex flex-col items-center">
           <video
             controls
-            className="w-[180px] sm:w-[250px] h-[360px] sm:h-[500px] rounded-lg shadow-lg object-cover"
+            className="w-[300px] sm:w-[250px] h-[660px] sm:h-[500px] rounded-lg shadow-lg object-cover"
           >
             <source src={mob2Vid} type="video/mp4" />
             Your browser does not support the video tag.

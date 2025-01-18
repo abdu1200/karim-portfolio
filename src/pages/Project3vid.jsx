@@ -15,7 +15,7 @@ const Project3vid = () => {
         </div>
 
         {/* Video */}
-        <div className="video-item w-[300px] sm:w-1/2 px-4">
+        <div className="video-item w-[350px] sm:w-1/2 px-4">
           <video controls className="w-full rounded-lg shadow-lg">
             <source src={chatVid} type="video/mp4" />
             Your browser does not support the video tag.
