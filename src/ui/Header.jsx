@@ -1,6 +1,5 @@
 import { Link } from "react-scroll";
 import { logo } from "../assets/index";
-import resume from "../../public/resume.pdf";
 import { motion } from "framer-motion";
 import { useRef, useState } from "react";
 import { MdOutlineClose } from "react-icons/md";
